@@ -2,4 +2,4 @@
 
 Direct link is also useful in case you want to check out my clean CV page:
 
-[CV Link](https://lubomirqa.github.io/resume/)
+``` [CV Link](https://lubomirqa.github.io/resume/)
